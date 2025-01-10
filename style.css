@@ -218,8 +218,8 @@ color: #0E0E0E;
 .main-6{
     padding: 15px 15px 10px 0px;
     font-size: 16px;
-    font-weight: 400px;
-    color: #474646;
+    font-weight: 100px;
+    color: #6d6b6b;
 }
 .main-7 button{
     background-color: #006A50;
@@ -235,4 +235,97 @@ color: #0E0E0E;
     width: 744px;
     height: 290px;
     margin: 56px 32px 56px 48px;
+}
+.recent-news{
+    margin: 20px auto;
+}
+.recent-news h2{
+    font-weight: bold;
+    font-size: 40px;
+    margin: 70px auto;
+}
+.div-new-1{
+    margin: 20px auto;
+    height: 464px;
+    text-align: center;
+    width: 1280px;
+}
+.div-new-2{
+    padding: 30px;
+}
+.div-new-3{
+    font-weight: 100px;
+    color: #6d6b6b;
+}
+.div-new-4{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    text-align: center;
+}
+
+.div-new-5>p{
+    background-color: white;
+    font-weight: bold;
+    font-size: 40px;
+    padding: 40px;
+    border: 1px solid #6d6b6b;
+    border-radius: 16px;
+}
+.div-new-6{
+    background-color: white;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    padding: 20px 0px;
+    margin: 32px 158px;
+}
+.btn{
+    background-color: #006A50;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.div-last-1{
+    background-color:  #C6E4D6;
+    margin: 110px auto;
+    width: 1280px;
+    height: 395px;
+    border-radius: 24px;
+    justify-content: center;
+}
+.div-last-2{
+    width: 750px;
+    height: 235px;
+    padding: 80px 265px;
+    text-align: center;
+}
+.input{
+    padding: 18px 403px 18px 40px;
+    border: none;
+    margin: 20px 0px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+.btn-1{
+    background-color: #006A50;
+    border: none;
+    padding: 17.50px;
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.div-sesh{
+    justify-content: center;
+}
+.background{
+    background-color: white;
+    width: 1600px;
+    height: 226px;
 }
