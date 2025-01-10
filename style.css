@@ -109,6 +109,11 @@ border: none;
     padding: 30px 0px;
 
 }
+.shared{
+    color: #474646;
+    font-weight: 400;
+    font-size: 16px;
+}
 /* main css */
 .main-div-1{
     width: 1280px;
@@ -118,4 +123,116 @@ border: none;
 .main-div-2{
     display: flex;
     margin: 40px 0px;
+    gap: 24px;
+}
+.main-div-3{
+    width: 410.67px;
+    height: 325px;
+}
+.main-div-4{
+    background-color: #afcdf8;
+    border-radius: 16px;
+    padding: 32px;
+}
+.main-div-5{
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    padding: 32px;
+}
+.main-div-6{
+    background-color: #F7EBCF;
+    border-radius: 16px;
+    padding: 32px;
+}
+.one button{
+    background-color: #5490F5;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 84px;
+}
+.two button{
+    background-color: #09A15C;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 84px;
+}
+.three button{
+    background-color: #FFC239;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 84px;
+}
+.main-div-7{
+    background-color: white;
+    border-radius: 16px;
+    height: 256px;
+    margin-bottom: 20px;
+}
+.main-div-8{
+    background-image: url(assets/quote-bg.png);
+    background-repeat: no-repeat;
+    padding-top: 25px;
+}
+.main-div-10{
+    padding: 48px 24px;
+}
+.main-1{
+    width: 1280px;
+    height: 402px;
+    display: flex;
+    margin: 30px auto;
+    background-color: white;
+    border-radius: 24px;
+}
+.main-2 img{
+    width: 408px;
+    height: 306px;
+    border-radius: 24px;
+    margin: 48px 32px 48px 48px;
+}
+.main-3{
+    width: 744px;
+    height: 290px;
+    margin: 56px 48px 56px 0px;
+}
+.main-4{
+font-weight: bold;
+font-size: 32px;
+color: #0E0E0E;
+}
+.main-5{
+    padding: 13px 0px;
+}
+.main-6{
+    padding: 15px 15px 10px 0px;
+    font-size: 16px;
+    font-weight: 400px;
+    color: #474646;
+}
+.main-7 button{
+    background-color: #006A50;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 45px;
+}
+.main-8{
+    width: 744px;
+    height: 290px;
+    margin: 56px 32px 56px 48px;
 }
